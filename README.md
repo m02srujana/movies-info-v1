@@ -14,7 +14,7 @@ This project provides an API to fetch movie information, including details about
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v21 or higher)
 - npm (v6 or higher)
 
 ### Installation
